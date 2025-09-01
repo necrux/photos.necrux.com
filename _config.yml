@@ -33,9 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://photos.necrux.com/photos.necrux.com/gallery/"  
-  - JOURNAL: "https://photos.necrux.com/photos.necrux.com/journal/"
-  - ABOUT: "https://photos.necrux.com/photos.necrux.com/about/"
+  - HOME: "https://photos.necrux.com"  
+  - GALLERY: "https://photos.necrux.com/gallery/"  
+  - JOURNAL: "https://photos.necrux.com/journal/"
+  - ABOUT: "https://photos.necrux.com/about/"
 
 # All translation keys
 translations:
