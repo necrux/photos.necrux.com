@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Family Albums
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://photos.necrux.com"
+baseurl: "/photos.necrux.com"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   necrux
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://photos.necrux.com/photorama/gallery/"  
+  - JOURNAL: "https://photos.necrux.com/photorama/journal/"
+  - ABOUT: "https://photos.necrux.com/photorama/about/"
 
 # All translation keys
 translations:
