@@ -1,5 +1,5 @@
 # Site settings
-title: Family Albums
+title: necrux albums
 email: "whendersonii@gmail.com"
 description: "Photo Journal"
 url: "https://photos.necrux.com"
@@ -7,7 +7,7 @@ baseurl: ""
   #facebook_username: ""
   #twitter_username: ""
   #instagram_username: ""
-github_username:  "necrux"
+  github_username:  "necrux"
   #deviantart_username: ""
   #flickr_username: ""
   #discus_shortname: ""
@@ -18,7 +18,7 @@ owner:
   name:   necrux
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -35,8 +35,8 @@ comments :
 nav:
   - HOME: "https://photos.necrux.com"  
   - GALLERY: "https://photos.necrux.com/gallery/"  
-  - JOURNAL: "https://photos.necrux.com/journal/"
-  - ABOUT: "https://photos.necrux.com/about/"
+    #  - JOURNAL: "https://photos.necrux.com/journal/"
+    #  - ABOUT: "https://photos.necrux.com/about/"
 
 # All translation keys
 translations:
